@@ -7,4 +7,4 @@ class Vertex:
     def __init__(self, id=None, data=None):
         """Initialize properties of vertex."""
         self.id = id
-        self.data = data
+        self.value = data
